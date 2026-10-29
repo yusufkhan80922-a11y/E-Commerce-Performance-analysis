@@ -1,0 +1,193 @@
+product_id,product_name,category,sub_category,unit_price,unit_cost
+PROD-101,Mobile Phones Item 1,Electronics,Mobile Phones,810.42,372.39
+PROD-102,Mobile Phones Item 2,Electronics,Mobile Phones,406.6,183.36
+PROD-103,Mobile Phones Item 3,Electronics,Mobile Phones,919.57,434.21
+PROD-104,Mobile Phones Item 4,Electronics,Mobile Phones,687.06,347.96
+PROD-105,Mobile Phones Item 5,Electronics,Mobile Phones,849.83,477.72
+PROD-106,Mobile Phones Item 6,Electronics,Mobile Phones,435.99,190.15
+PROD-107,Mobile Phones Item 7,Electronics,Mobile Phones,829.35,536.57
+PROD-108,Mobile Phones Item 8,Electronics,Mobile Phones,511.14,236.16
+PROD-109,Laptops Item 1,Electronics,Laptops,1073.92,749.41
+PROD-110,Laptops Item 2,Electronics,Laptops,96.52,55.33
+PROD-111,Laptops Item 3,Electronics,Laptops,307.26,150.51
+PROD-112,Laptops Item 4,Electronics,Laptops,99.85,43.71
+PROD-113,Laptops Item 5,Electronics,Laptops,986.42,708.18
+PROD-114,Laptops Item 6,Electronics,Laptops,32.11,21.73
+PROD-115,Laptops Item 7,Electronics,Laptops,284.71,125.46
+PROD-116,Headphones Item 1,Electronics,Headphones,557.36,414.85
+PROD-117,Headphones Item 2,Electronics,Headphones,286.51,213.63
+PROD-118,Headphones Item 3,Electronics,Headphones,195.14,108.24
+PROD-119,Headphones Item 4,Electronics,Headphones,791.82,420.85
+PROD-120,Headphones Item 5,Electronics,Headphones,501.35,203.72
+PROD-121,Headphones Item 6,Electronics,Headphones,165.58,108.89
+PROD-122,Headphones Item 7,Electronics,Headphones,109.96,78.61
+PROD-123,Headphones Item 8,Electronics,Headphones,182.46,76.8
+PROD-124,Smartwatches Item 1,Electronics,Smartwatches,930.59,497.58
+PROD-125,Smartwatches Item 2,Electronics,Smartwatches,1094.99,486.69
+PROD-126,Smartwatches Item 3,Electronics,Smartwatches,823.79,346.3
+PROD-127,Smartwatches Item 4,Electronics,Smartwatches,194.71,120.82
+PROD-128,Smartwatches Item 5,Electronics,Smartwatches,1023.43,459.61
+PROD-129,Smartwatches Item 6,Electronics,Smartwatches,954.16,471.13
+PROD-130,Smartwatches Item 7,Electronics,Smartwatches,141.69,86.74
+PROD-131,Smartwatches Item 8,Electronics,Smartwatches,330.24,184.67
+PROD-132,Smartwatches Item 9,Electronics,Smartwatches,350.27,261.29
+PROD-133,Smartwatches Item 10,Electronics,Smartwatches,236.01,167.04
+PROD-134,Accessories Item 1,Electronics,Accessories,622.01,355.16
+PROD-135,Accessories Item 2,Electronics,Accessories,117.6,66.12
+PROD-136,Accessories Item 3,Electronics,Accessories,528.28,349.42
+PROD-137,Accessories Item 4,Electronics,Accessories,91.86,38.87
+PROD-138,Accessories Item 5,Electronics,Accessories,186.75,92.03
+PROD-139,Accessories Item 6,Electronics,Accessories,394.51,281.97
+PROD-140,Accessories Item 7,Electronics,Accessories,817.53,332.72
+PROD-141,Accessories Item 8,Electronics,Accessories,491.32,347.59
+PROD-142,Accessories Item 9,Electronics,Accessories,48.14,19.81
+PROD-143,Men's Wear Item 1,Clothing,Men's Wear,919.52,499.22
+PROD-144,Men's Wear Item 2,Clothing,Men's Wear,1195.55,816.39
+PROD-145,Men's Wear Item 3,Clothing,Men's Wear,895.73,662.44
+PROD-146,Men's Wear Item 4,Clothing,Men's Wear,671.77,493.61
+PROD-147,Men's Wear Item 5,Clothing,Men's Wear,890.64,466.69
+PROD-148,Men's Wear Item 6,Clothing,Men's Wear,650.24,409.72
+PROD-149,Men's Wear Item 7,Clothing,Men's Wear,595.06,405.64
+PROD-150,Women's Wear Item 1,Clothing,Women's Wear,856.43,346.26
+PROD-151,Women's Wear Item 2,Clothing,Women's Wear,605.83,433.8
+PROD-152,Women's Wear Item 3,Clothing,Women's Wear,1050.41,761.06
+PROD-153,Women's Wear Item 4,Clothing,Women's Wear,834.6,522.06
+PROD-154,Women's Wear Item 5,Clothing,Women's Wear,749.89,514.8
+PROD-155,Kids' Wear Item 1,Clothing,Kids' Wear,974.29,419.75
+PROD-156,Kids' Wear Item 2,Clothing,Kids' Wear,510.4,276.93
+PROD-157,Kids' Wear Item 3,Clothing,Kids' Wear,578.17,252.58
+PROD-158,Kids' Wear Item 4,Clothing,Kids' Wear,573.32,423.72
+PROD-159,Kids' Wear Item 5,Clothing,Kids' Wear,681.02,306.24
+PROD-160,Kids' Wear Item 6,Clothing,Kids' Wear,963.36,707.58
+PROD-161,Kids' Wear Item 7,Clothing,Kids' Wear,402.42,205.25
+PROD-162,Kids' Wear Item 8,Clothing,Kids' Wear,816.1,340.1
+PROD-163,Footwear Item 1,Clothing,Footwear,368.69,202.33
+PROD-164,Footwear Item 2,Clothing,Footwear,834.37,429.14
+PROD-165,Footwear Item 3,Clothing,Footwear,237.29,126.76
+PROD-166,Footwear Item 4,Clothing,Footwear,107.03,61.22
+PROD-167,Footwear Item 5,Clothing,Footwear,1067.77,463.26
+PROD-168,Footwear Item 6,Clothing,Footwear,388.12,201.8
+PROD-169,Cookware Item 1,Home & Kitchen,Cookware,261.91,128.27
+PROD-170,Cookware Item 2,Home & Kitchen,Cookware,1113.97,543.09
+PROD-171,Cookware Item 3,Home & Kitchen,Cookware,510.03,284.98
+PROD-172,Cookware Item 4,Home & Kitchen,Cookware,254.46,178.06
+PROD-173,Cookware Item 5,Home & Kitchen,Cookware,280.47,130.09
+PROD-174,Cookware Item 6,Home & Kitchen,Cookware,727.67,416.84
+PROD-175,Cookware Item 7,Home & Kitchen,Cookware,15.83,11.49
+PROD-176,Cookware Item 8,Home & Kitchen,Cookware,1146.01,815.08
+PROD-177,Cookware Item 9,Home & Kitchen,Cookware,297.32,139.35
+PROD-178,Decor Item 1,Home & Kitchen,Decor,151.64,97.59
+PROD-179,Decor Item 2,Home & Kitchen,Decor,29.83,20.69
+PROD-180,Decor Item 3,Home & Kitchen,Decor,416.25,268.99
+PROD-181,Decor Item 4,Home & Kitchen,Decor,450.0,261.41
+PROD-182,Decor Item 5,Home & Kitchen,Decor,475.26,337.04
+PROD-183,Bedding Item 1,Home & Kitchen,Bedding,146.3,72.39
+PROD-184,Bedding Item 2,Home & Kitchen,Bedding,754.02,526.46
+PROD-185,Bedding Item 3,Home & Kitchen,Bedding,277.06,130.98
+PROD-186,Bedding Item 4,Home & Kitchen,Bedding,666.12,317.46
+PROD-187,Bedding Item 5,Home & Kitchen,Bedding,668.14,361.27
+PROD-188,Bedding Item 6,Home & Kitchen,Bedding,1084.98,540.67
+PROD-189,Bedding Item 7,home & kitchen,Bedding,476.03,321.34
+PROD-190,Appliances Item 1,Home & Kitchen,Appliances,850.58,604.11
+PROD-191,Appliances Item 2,Home & Kitchen,Appliances,817.65,501.76
+PROD-192,Appliances Item 3,Home & Kitchen,Appliances,354.64,193.95
+PROD-193,Appliances Item 4,Home & Kitchen,Appliances,1012.51,605.03
+PROD-194,Appliances Item 5,Home & Kitchen,Appliances,1071.8,673.51
+PROD-195,Appliances Item 6,Home & Kitchen,Appliances,905.59,536.89
+PROD-196,Appliances Item 7,Home & Kitchen,Appliances,754.6,400.39
+PROD-197,Appliances Item 8,Home & Kitchen,Appliances,849.9,474.6
+PROD-198,Appliances Item 9,Home & Kitchen,Appliances,348.46,139.88
+PROD-199,Appliances Item 10,Home & Kitchen,Appliances,414.97,266.71
+PROD-200,Appliances Item 11,Home & Kitchen,Appliances,1188.12,851.04
+PROD-201,Fiction Item 1,Books,Fiction,348.96,186.15
+PROD-202,Fiction Item 2,Books,Fiction,418.73,229.01
+PROD-203,Fiction Item 3,Books,Fiction,734.4,422.8
+PROD-204,Fiction Item 4,Books,Fiction,986.78,564.82
+PROD-205,Fiction Item 5,Books,Fiction,890.35,374.07
+PROD-206,Fiction Item 6,BOOKS,Fiction,261.42,190.44
+PROD-207,Fiction Item 7,Books,Fiction,468.85,302.34
+PROD-208,Fiction Item 8,Books,Fiction,588.37,370.71
+PROD-209,Fiction Item 9,Books,Fiction,185.51,123.62
+PROD-210,Fiction Item 10,Books,Fiction,227.98,152.49
+PROD-211,Fiction Item 11,Books,Fiction,1051.67,776.86
+PROD-212,Non-Fiction Item 1,Books,Non-Fiction,956.36,690.8
+PROD-213,Non-Fiction Item 2,Books,Non-Fiction,189.7,108.68
+PROD-214,Non-Fiction Item 3,Books,Non-Fiction,530.02,397.33
+PROD-215,Non-Fiction Item 4,Books,Non-Fiction,496.06,289.98
+PROD-216,Non-Fiction Item 5,Books,Non-Fiction,438.86,321.64
+PROD-217,Non-Fiction Item 6,Books,Non-Fiction,712.24,471.95
+PROD-218,Non-Fiction Item 7,Books,Non-Fiction,670.33,467.27
+PROD-219,Self-Help Item 1,Books,Self-Help,1051.43,647.11
+PROD-220,Self-Help Item 2,Books,Self-Help,483.4,257.49
+PROD-221,Self-Help Item 3,Books,Self-Help,1189.82,799.99
+PROD-222,Self-Help Item 4,Books,Self-Help,215.43,102.71
+PROD-223,Self-Help Item 5,Books,Self-Help,645.82,360.05
+PROD-224,Self-Help Item 6,Books,Self-Help,1195.21,724.68
+PROD-225,Self-Help Item 7,Books,Self-Help,630.05,266.65
+PROD-226,Technical Item 1,books,Technical,104.06,71.99
+PROD-227,Technical Item 2,Books,Technical,1181.2,522.93
+PROD-228,Technical Item 3,Books,Technical,1146.32,815.11
+PROD-229,Technical Item 4,Books,Technical,563.89,237.36
+PROD-230,Technical Item 5,Books,Technical,1123.03,768.64
+PROD-231,Technical Item 6,Books,Technical,708.58,347.34
+PROD-232,Technical Item 7,Books,Technical,1112.59,810.6
+PROD-233,Skincare Item 1,BEAUTY & CARE,Skincare,245.36,146.02
+PROD-234,Skincare Item 2,Beauty & Care,Skincare,214.38,87.57
+PROD-235,Skincare Item 3,Beauty & Care,Skincare,629.05,424.81
+PROD-236,Skincare Item 4,Beauty & Care,Skincare,728.92,432.48
+PROD-237,Skincare Item 5,Beauty & Care,Skincare,524.78,304.99
+PROD-238,Skincare Item 6,Beauty & Care,Skincare,1123.37,481.01
+PROD-239,Skincare Item 7,Beauty & Care,Skincare,615.94,280.05
+PROD-240,Skincare Item 8,Beauty & Care,Skincare,562.38,408.41
+PROD-241,Skincare Item 9,Beauty & Care,Skincare,925.46,685.37
+PROD-242,Haircare Item 1,Beauty & Care,Haircare,728.76,453.18
+PROD-243,Haircare Item 2,Beauty & Care,Haircare,794.45,372.71
+PROD-244,Haircare Item 3,Beauty & Care,Haircare,349.54,190.29
+PROD-245,Haircare Item 4,Beauty & Care,Haircare,1087.12,752.43
+PROD-246,Haircare Item 5,Beauty & Care,Haircare,421.28,278.91
+PROD-247,Haircare Item 6,beauty & care,Haircare,332.15,171.75
+PROD-248,Haircare Item 7,Beauty & Care,Haircare,552.72,332.25
+PROD-249,Haircare Item 8,Beauty & Care,Haircare,702.84,292.94
+PROD-250,Haircare Item 9,Beauty & Care,Haircare,441.51,267.77
+PROD-251,Haircare Item 10,Beauty & Care,Haircare,105.1,48.29
+PROD-252,Haircare Item 11,Beauty & Care,Haircare,704.75,485.6
+PROD-253,Fragrances Item 1,beauty & care,Fragrances,443.29,202.41
+PROD-254,Fragrances Item 2,Beauty & Care,Fragrances,116.21,47.39
+PROD-255,Fragrances Item 3,Beauty & Care,Fragrances,916.8,494.28
+PROD-256,Fragrances Item 4,Beauty & Care,Fragrances,314.34,202.42
+PROD-257,Fragrances Item 5,beauty & care,Fragrances,340.87,216.08
+PROD-258,Fragrances Item 6,Beauty & Care,Fragrances,168.82,76.22
+PROD-259,Makeup Item 1,Beauty & Care,Makeup,1094.93,624.15
+PROD-260,Makeup Item 2,Beauty & Care,Makeup,607.73,437.26
+PROD-261,Makeup Item 3,Beauty & Care,Makeup,186.7,81.75
+PROD-262,Makeup Item 4,Beauty & Care,Makeup,891.12,362.3
+PROD-263,Makeup Item 5,Beauty & Care,Makeup,423.44,270.03
+PROD-264,Makeup Item 6,Beauty & Care,Makeup,224.06,147.09
+PROD-265,Makeup Item 7,Beauty & Care,Makeup,1106.68,773.53
+PROD-266,Makeup Item 8,Beauty & Care,Makeup,734.32,347.16
+PROD-267,Makeup Item 9,Beauty & Care,Makeup,868.64,403.49
+PROD-268,Makeup Item 10,Beauty & Care,Makeup,664.61,322.4
+PROD-269,Makeup Item 11,Beauty & Care,Makeup,685.92,477.2
+PROD-270,Fitness Equipment Item 1,Sports,Fitness Equipment,785.98,417.07
+PROD-271,Fitness Equipment Item 2,Sports,Fitness Equipment,570.88,252.97
+PROD-272,Fitness Equipment Item 3,Sports,Fitness Equipment,484.45,247.11
+PROD-273,Fitness Equipment Item 4,Sports,Fitness Equipment,607.1,444.68
+PROD-274,Fitness Equipment Item 5,Sports,Fitness Equipment,580.5,381.75
+PROD-275,Fitness Equipment Item 6,Sports,Fitness Equipment,441.87,178.15
+PROD-276,Fitness Equipment Item 7,Sports,Fitness Equipment,721.87,508.38
+PROD-277,Fitness Equipment Item 8,Sports,Fitness Equipment,739.01,305.56
+PROD-278,Fitness Equipment Item 9,Sports,Fitness Equipment,21.05,11.22
+PROD-279,Sportswear Item 1,Sports,Sportswear,334.28,182.32
+PROD-280,Sportswear Item 2,Sports,Sportswear,720.64,371.78
+PROD-281,Sportswear Item 3,Sports,Sportswear,46.16,30.39
+PROD-282,Sportswear Item 4,Sports,Sportswear,887.96,635.46
+PROD-283,Sportswear Item 5,Sports,Sportswear,1014.13,723.92
+PROD-284,Sportswear Item 6,Sports,Sportswear,851.35,342.52
+PROD-285,Outdoor Gear Item 1,Sports,Outdoor Gear,160.44,94.55
+PROD-286,Outdoor Gear Item 2,Sports,Outdoor Gear,58.15,37.87
+PROD-287,Outdoor Gear Item 3,Sports,Outdoor Gear,112.97,67.57
+PROD-288,Outdoor Gear Item 4,Sports,Outdoor Gear,634.97,446.6
+PROD-289,Outdoor Gear Item 5,Sports,Outdoor Gear,821.82,344.44
+PROD-290,Outdoor Gear Item 6,sports,Outdoor Gear,861.37,627.33
+PROD-291,Outdoor Gear Item 7,Sports,Outdoor Gear,559.78,400.94
+PROD-292,Outdoor Gear Item 8,Sports,Outdoor Gear,979.03,466.2
